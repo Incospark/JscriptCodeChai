@@ -1,0 +1,41 @@
+Microsoft Windows [Version 10.0.26200.5516]
+(c) Microsoft Corporation. All rights reserved.
+PowerShell 7.5.0
+PS C:\Programs\mongoDB> npm init -y
+Wrote to C:\Programs\mongoDB\package.json:
+
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
+
+
+
+PS C:\Programs\mongoDB> 
+PS C:\Programs\mongoDB> 
+PS C:\Programs\mongoDB> npm i express
+
+added 66 packages, and audited 67 packages in 3s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Programs\mongoDB> npm i mongoose
+
+added 17 packages, and audited 84 packages in 4s
+
+15 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Programs\mongoDB> 
